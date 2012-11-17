@@ -1,8 +1,9 @@
 # Parallax 2 Polyglot
 
-The project is based on the original Parallax-2 example by David
-Olofson. It's a piece of clear and beutiful C, and I hope that my
-addition of crude FPS measuring didn't taint it.
+The project is based on the original
+[Parallax-2](http://olofson.net/examples.html) example by David Olofson.
+It's a piece of clear and beutiful C, and I hope that my addition of
+crude FPS measuring didn't taint it.
 
 I've also made translations to Python and Ruby (for now). They are
 intended for raw performance comparison. The next thing to do should be
