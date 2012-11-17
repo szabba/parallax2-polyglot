@@ -215,7 +215,7 @@ if __name__ == '__main__':
         tick2 = pygame.time.get_ticks()
         dt = (tick2 - tick1) * 0.001
 
-        print 'frame: %d, dt: %d ms, fps: %.0f\n' % (
+        print 'frame: %d, dt: %d ms, fps: %.0f' % (
                 frame_count,
                 tick2 - tick1,
                 1.0 / dt if dt > 0 else 0)
