@@ -2,7 +2,7 @@
 
 The project is based on the original
 [Parallax-2](http://olofson.net/examples.html) example by David Olofson.
-It's a piece of clear and beutiful C, and I hope that my addition of
+It's a piece of clear and beautiful C, and I hope that my addition of
 crude FPS measuring didn't taint it.
 
 I've also made translations to Python and Ruby (for now). They are
@@ -14,7 +14,7 @@ SWIG.
 
 All programs expect the `tiles.bmp` file to be in the current directory,
 therefore you should run them from the project root. The same doesn't
-hold.
+hold for building the examples though.
 
 # Licensing
 
